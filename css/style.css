@@ -1,0 +1,202 @@
+/* 
+Author: Md. Nurshadul Islam
+Email: nurshadul.islam.2018@gmail.com
+Website: nurshadul.com 
+*/
+
+/* 
+=== Index ===
+
+1. header
+2. smartphone         
+3. laptop         
+4. category  
+
+ */
+
+/* global  */
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-size: 41px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 35px;
+  font-weight: 500;
+  color: #1f1f1f;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: 500;
+  color: #1f1f1f;
+}
+
+h4 {
+  font-size: 24px;
+  font-weight: 500;
+  margin: 35px 0;
+  color: #1f1f1f;
+}
+
+section {
+  padding: 50px 0;
+}
+
+.btn1 {
+  padding: 15px 27px;
+  background-color: #000000;
+  color: #fff;
+  outline: 0;
+  border: none;
+  text-transform: uppercase;
+}
+
+.btn1:hover {
+  background-color: #000000;
+  color: #fff;
+}
+
+/* header  */
+
+header {
+  padding: 30px 0;
+}
+
+header p {
+  font-size: 18px;
+  color: #707070;
+  font-weight: 300;
+  margin-bottom: 45px;
+}
+
+.himage {
+  display: block;
+  margin-top: 100px;
+  margin-left: -100px;
+}
+
+.menu {
+  background-color: transparent !important;
+}
+
+.nav-link {
+  font-size: 18px;
+  font-weight: 500;
+  color: #707070 !important;
+  margin-right: 30px;
+}
+
+.carousel-indicators {
+  bottom: -55px;
+  left: -535px;
+}
+
+.carousel-indicators li {
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+  background-color: #cecece;
+}
+
+.carousel-indicators li.active {
+  height: 12px;
+  width: 45px;
+  border-radius: 35%;
+  background-color: #ff9c35;
+}
+
+.hmt {
+  margin-top: 120px;
+}
+
+.hmt2 {
+  margin-top: 50px;
+}
+
+/* smartphone  */
+
+.cardc {
+  text-align: center;
+  padding: 40px;
+}
+
+.card p {
+  font-size: 16px;
+  font-weight: 300;
+}
+
+p.price {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.fa-arrow-right {
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.title {
+  overflow: hidden;
+  margin-bottom: 50px;
+}
+
+a.link {
+  color: #ff9d00;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+a.link:hover {
+  text-decoration: none;
+}
+
+/* category  */
+
+.category {
+  text-align: center;
+}
+
+.card {
+  margin-bottom: 15px;
+}
+.bcd {
+  width: 136px;
+  height: 9px;
+  background-color: #ff9c35;
+  border-radius: 25px;
+  margin: 20px auto 80px;
+}
+
+.card2 {
+  padding: 40px 50px;
+}
+
+.card2 p {
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.mt {
+  margin-top: 180px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+.mb {
+  margin-bottom: 30px;
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.imt {
+  margin-top: 95px;
+}

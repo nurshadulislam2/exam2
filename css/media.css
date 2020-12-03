@@ -1,0 +1,49 @@
+@media (max-width: 575.98px) {
+  .himage {
+    margin-left: -30px;
+  }
+
+  .carousel-indicators {
+    left: -410px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .himage {
+    margin-left: -30px;
+  }
+
+  .carousel-indicators {
+    left: -410px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .himage {
+    margin-left: -30px;
+  }
+
+  .carousel-indicators {
+    left: -280px;
+  }
+
+  .card2 {
+    padding: 40px 30px;
+  }
+
+  .cardc {
+    text-align: center;
+    padding: 25px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .himage {
+    margin-left: -30px;
+  }
+
+  .carousel-indicators {
+    left: -437px;
+  }
+}
+
+@media (min-width: 1200px) {
+}
